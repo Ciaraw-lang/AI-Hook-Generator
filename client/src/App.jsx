@@ -63,7 +63,7 @@ function App() {
               setLoading(true);
 
               const response = await axios.post(
-                "http://localhost:5000/generate",
+                "https://ai-hook-generator-e5kt.onrender.com",
                 {
                   topic,
                   platform,
