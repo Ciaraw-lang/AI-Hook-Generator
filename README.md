@@ -1,6 +1,8 @@
 # AI Hook Generator
 
 A full-stack AI-powered web application that generates engaging social media hooks for platforms like TikTok, YouTube, and Instagram
+## Live Demo
+[Try the App Here](https://ai-hook-generator-eight.vercel.app/)
 
 ## Features
 
@@ -84,6 +86,16 @@ saved the history of the hook
 The system of favorites
 Hooks for exporting
 Other AI writing techniques
+
+## Screenshots
+
+### Homepage
+
+![Homepage](./screenshots/homepage.png)
+
+### Generated Hooks
+
+![Generated Hooks](./screenshots/generated-hooks.png)
 
 Author: 
 Ciara Williams
