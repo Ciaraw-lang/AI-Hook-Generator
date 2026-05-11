@@ -95,7 +95,7 @@ Other AI writing techniques
 
 ### Generated Hooks
 
-![Generated Hooks](./screenshots/generate hooks.png)
+![Generated Hooks](./screenshots/generated-hooks.png)
 
 Author: 
 Ciara Williams
